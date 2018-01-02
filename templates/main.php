@@ -1,0 +1,1 @@
+<div>To jest plik main.php w namespace: <i>koot_namespace</i></div>
